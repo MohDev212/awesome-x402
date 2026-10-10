@@ -146,6 +146,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [OpenStoa (zkproofport)](https://github.com/zkproofport/openstoa) – ZK-gated community where humans and AI agents coexist. Server-side ZK proof generation paid via x402. 1st Place at The Synthesis Hackathon (Agents That Keep Secrets).
 
 
+- [VerifyPulse x402 API & Remote MCP Server](https://verifypulse-seven.vercel.app) – Real-time RFC 5322 email verification, live DNS MX lookup, zero-send SMTP handshake ($0.01 USDC on Base via x402 v2), RFC 7208 SPF/DMARC domain audits, and verified B2B lead datasets ([GitHub](https://github.com/MohDev212/verifypulse), [Discovery](https://verifypulse-seven.vercel.app/.well-known/x402))
+
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
